@@ -1,0 +1,28 @@
+body {
+    background-color: lavender;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.btn {
+	width: 100px;
+}
+
+#btn-panel {
+	text-align: right;
+}
+
+#card-panel {
+    padding-top: 30px; 
+    padding-left: 20px;
+}
+
+#checkBox {
+	 margin-right: 15px;
+}
+
+#quest-panel {
+	 margin-top: 30px;
+}
